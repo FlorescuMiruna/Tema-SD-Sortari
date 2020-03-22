@@ -1,0 +1,64 @@
+Pentru 1000 numere, care nu depasesc 10000 timpii de executie sunt:
+Sort dureaza: 0
+Bubble Sort dureaza: 0.006
+Count Sort dureaza: 0
+Quick Sort dureaza: 0
+Merge Sort dureaza: 0
+Radix Sort dureaza: 0
+
+Pentru 10000 numere, care nu depasesc 10000000000 timpii de executie sunt:
+Sort dureaza: 0
+Bubble Sort dureaza: 0.489
+Count sort nu merge.
+Quick Sort dureaza: 0
+Merge Sort dureaza: 0
+Radix Sort dureaza: 0.016
+
+Pentru 30000 numere, care nu depasesc 1000 timpii de executie sunt:
+Sort dureaza: 0
+Bubble Sort dureaza: 4.404
+Count Sort dureaza: 0
+Quick Sort dureaza: 0.01
+Merge Sort dureaza: 0.005
+Radix Sort dureaza: 0.003
+
+Pentru 100000 numere, care nu depasesc 100000 timpii de executie sunt:
+Sort dureaza: 0.014
+Bubble Sort dureaza prea mult.
+Count sort nu merge.
+Quick Sort dureaza: 0.037
+Merge Sort dureaza: 0.022
+Radix Sort dureaza: 0.031
+
+Pentru 500000 numere, care nu depasesc 25000 timpii de executie sunt:
+Sort dureaza: 0.111
+Bubble Sort dureaza prea mult.
+Count Sort dureaza: 0
+Quick Sort dureaza: 0.118
+Merge Sort dureaza: 0.116
+Radix Sort nu merge pentru atatea numere.
+
+Pentru 500000 numere, care nu depasesc 1000000000 timpii de executie sunt:
+Sort dureaza: 0.108
+Bubble Sort dureaza prea mult.
+Count sort nu merge.
+Quick Sort dureaza: 0.091
+Merge Sort dureaza: 0.112
+Radix Sort nu merge pentru atatea numere.
+
+Pentru 1000000 numere, care nu depasesc 25000 timpii de executie sunt:
+Sort dureaza: 0.268
+Bubble Sort dureaza prea mult.
+Count Sort dureaza: 0.015
+Quick Sort dureaza: 0.209
+Merge Sort nu merge pentru atatea numere.
+Radix Sort nu merge pentru atatea numere.
+
+Pentru 10000000 numere, care nu depasesc 25000 timpii de executie sunt:
+Sort dureaza: 2.353
+Bubble Sort dureaza prea mult.
+Count Sort dureaza: 0.078
+Quick Sort dureaza: 5.669
+Merge Sort nu merge pentru atatea numere.
+Radix Sort nu merge pentru atatea numere.
+
